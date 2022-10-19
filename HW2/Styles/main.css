@@ -25,9 +25,7 @@ html {
     background-size: cover;
     color: rgb(231, 190, 190);
   }
-body {
-    
-}
+
 h1 {
     text-align: center;
     font-family: 'Majestic X', sans-serif;
@@ -71,7 +69,4 @@ h5 {
 }
 .txtright {
     text-align: right;
-}
-.video {
-    text-align: center;
 }
