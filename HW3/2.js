@@ -9,6 +9,6 @@ Cоздать функцию, которая принимает имя и выв
 "use strict";
 const name = prompt('Скажите, как Вас зовут?');
 function GetName(name) {
-console.log(`Приветствую Тебя, ${name}!`);
+  console.log(`Приветствую Тебя, ${name}!`);
 }
 GetName(name);
