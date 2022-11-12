@@ -130,8 +130,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Jost', sans-serif;}
       <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?=$workxp[$i]['date']?></h6>
       <p><?=$workxp[$i]['description']?></p>
       <hr>
-     <?php endfor;?>
-    </div>  
+    </div>
+    <?php endfor;?>  
   </div>
 
   <div class="w3-container w3-card w3-white">
